@@ -10,3 +10,4 @@ source code:
 https://github.com/franlinCAT/giveMeDiscordActiveDeveloperBadge/blob/main/main.py
 
 WARNING YOU MAY NEED TO USE THE PROGRAM ONCE A MONTH TO KEEP YOUR BADGE
+also if the program crashs, you either entered the bot token or the app id wrongly
