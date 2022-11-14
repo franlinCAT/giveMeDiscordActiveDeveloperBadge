@@ -6,4 +6,7 @@ to use or get, you must have create a application in discord devloper portal htt
 download program here:
 https://github.com/franlinCAT/giveMeDiscordActiveDeveloperBadge/blob/main/giveMeDiscordActiveDeveloperBadge.zip
 
+source code:
+https://github.com/franlinCAT/giveMeDiscordActiveDeveloperBadge/blob/main/main.py
+
 WARNING YOU MAY NEED TO USE THE PROGRAM ONCE A MONTH TO KEEP YOUR BADGE
